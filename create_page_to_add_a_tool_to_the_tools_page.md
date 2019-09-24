@@ -24,11 +24,11 @@ To create a page to add a tool to the Tools page, follow these steps:
 
 7.   In the **Entity** list, select the **Tools** entity. 
 
-    ![](14.png)
+   ![](14.png)
 
 8.   Select the **Name** text box. 
 
-    ![](15.png)
+   ![](15.png)
 
 9.   In the right toolbar, under the **General** menu, in the **Label** box, delete the text **Name**. 
 
