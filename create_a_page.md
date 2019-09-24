@@ -7,7 +7,6 @@ To create a page, follow these steps:
 2.   In the **Pages** sidebar, click **New**. 
 
 3.   In the Create New Page modal window, do the following: 
-
     *  In the **Title** box, type the page name as Tools.
     *  From the **Layout** list, select **Atlas\_Layout**.
     *  In the page types, click **Lists** and select **List Default**.
