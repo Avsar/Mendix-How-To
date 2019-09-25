@@ -38,5 +38,5 @@ To create a page, follow these steps:
 
    ![](7.png)
 
-12. Repeat steps 8 to 12 for the **Details** text of a list item to add the **Code** attribute. 
+12.Repeat steps 8 to 12 for the **Details** text of a list item to add the **Code** attribute. 
 
