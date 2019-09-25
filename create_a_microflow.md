@@ -32,21 +32,21 @@ To create a microflow to display a message, follow the steps below:
 
    ![](26.png)
 
-11. In the right toolbar, from the **Client Activities** menu, drag and drop the **Show Page** block after the Show Message block in the **Save** microflow. 
+11.In the right toolbar, from the **Client Activities** menu, drag and drop the **Show Page** block after the Show Message block in the **Save** microflow. 
 
    ![](28.png)
 
-12. Select the **Show page** block in the Save microflow. 
+12.Select the **Show page** block in the Save microflow. 
 
-13. In the right toolbar, under the **Data Source** menu, in the **Page** list, select the **Tools** page. 
+13.In the right toolbar, under the **Data Source** menu, in the **Page** list, select the **Tools** page. 
 
-14. In the right toolbar, from the **Object Activities** menu, drag and drop the **Commit** block after the **Show page** block in the **Save** microflow. 
+14.In the right toolbar, from the **Object Activities** menu, drag and drop the **Commit** block after the **Show page** block in the **Save** microflow. 
 
    ![](29.png)
 
-15.  Select the **Commit** block in the Save microflow. 
+15.Select the **Commit** block in the Save microflow. 
 
-16.  In the right toolbar, under the **Data Source** menu, in the **Object or List** , select **Tools**. 
+16.In the right toolbar, under the **Data Source** menu, in the **Object or List** , select **Tools**. 
 
    ![](31.png)
 
