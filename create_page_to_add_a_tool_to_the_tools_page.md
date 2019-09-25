@@ -38,5 +38,5 @@ To create a page to add a tool to the Tools page, follow these steps:
 
    ![](16.png)
 
-12. Repeat steps 8 to 12 for the other text box to add the **Code** attribute label. 
+12.Repeat steps 8 to 12 for the other text box to add the **Code** attribute label. 
 
